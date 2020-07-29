@@ -1,6 +1,6 @@
 function arrayManipulation(n, queries) {
   const vector = [];
-  queries.forEach(query => {
+  queries.forEach((query) => {
     vector.push([query[0], query[2]], [query[1] + 1, -query[2]]);
   });
 

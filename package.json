@@ -1,0 +1,21 @@
+{
+  "name": "hacker-rank-js",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneas/hacker-rank-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneas/hacker-rank-js/issues"
+  },
+  "homepage": "https://github.com/sneas/hacker-rank-js#readme",
+  "scripts": {
+    "prettify": "prettier **/*.js --write"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
